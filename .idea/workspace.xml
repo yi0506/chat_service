@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76a2dcf0-026c-4cd9-9261-f99bb9c4ae36" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/prepare_copus/prepare_chatbot_corpus/chatbot_corpus.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/classify/classify.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/config.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/chatbot/decoder.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/prepare_copus/prepare_classify_corpus/build_classify.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1dFTBJ2kFrVoXkpvPtyD3oL2Bry" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\model\chatbot" />
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\corpus\QA_corpus" />
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\lib" />
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\chatbot" />
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\model\classify" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\corpus\QA_corpus" />
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\chatbot" />
+      <recent name="C:\Users\Wang8\OneDrive\progaram\python\test\pytorch\chat_service\classify" />
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\corpus\classify" />
+      <recent name="G:\OneDrive\progaram\python\test\pytorch\chat_service\corpus\user_dict" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_dnn">
+    <configuration name="recall_corpus (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chat_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prepare_copus/prepare_QA_corpus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_copus/prepare_QA_corpus/recall_corpus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chat_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/corpus/QA_corpus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/corpus/QA_corpus/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_chat_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chat_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_chat_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_dnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chat_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_dnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_prepare_corpus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chat_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_prepare_corpus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_dnn" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.test_prepare_corpus" />
+        <item itemvalue="Python.recall_corpus (1)" />
+        <item itemvalue="Python.test_chat_bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a2dcf0-026c-4cd9-9261-f99bb9c4ae36" name="默认更改列表" comment="" />
+      <created>1592019704391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592019704391</updated>
+      <workItem from="1592019707203" duration="35546000" />
+      <workItem from="1592101973160" duration="6115000" />
+      <workItem from="1592110419937" duration="8308000" />
+      <workItem from="1592120420557" duration="10692000" />
+      <workItem from="1592198043329" duration="8000" />
+      <workItem from="1592376368529" duration="11967000" />
+      <workItem from="1592390921552" duration="13834000" />
+      <workItem from="1592479718968" duration="5625000" />
+      <workItem from="1592489305066" duration="14000" />
+      <workItem from="1592489327549" duration="43000" />
+      <workItem from="1592489374057" duration="9856000" />
+      <workItem from="1592499257242" duration="991000" />
+      <workItem from="1592524335458" duration="857000" />
+      <workItem from="1592534654247" duration="44000" />
+      <workItem from="1592534727486" duration="603000" />
+      <workItem from="1592633469935" duration="7404000" />
+      <workItem from="1592656336324" duration="15648000" />
+      <workItem from="1592699263096" duration="16439000" />
+      <workItem from="1592717230459" duration="14000" />
+      <workItem from="1592717335560" duration="3019000" />
+      <workItem from="1592730906877" duration="960000" />
+      <workItem from="1592732758024" duration="79000" />
+      <workItem from="1592733355553" duration="82000" />
+      <workItem from="1592752910125" duration="2538000" />
+      <workItem from="1592805137519" duration="48000" />
+      <workItem from="1592805192725" duration="123000" />
+      <workItem from="1592828837971" duration="10585000" />
+      <workItem from="1592881824319" duration="236000" />
+      <workItem from="1592882082724" duration="71000" />
+      <workItem from="1592882215211" duration="1669000" />
+      <workItem from="1592888713147" duration="4443000" />
+      <workItem from="1592895325762" duration="207000" />
+      <workItem from="1592912758530" duration="6840000" />
+      <workItem from="1592921539485" duration="857000" />
+      <workItem from="1592925389311" duration="1233000" />
+      <workItem from="1592927942405" duration="99000" />
+      <workItem from="1592981212064" duration="994000" />
+      <workItem from="1592982315498" duration="30000" />
+      <workItem from="1592997977446" duration="12463000" />
+      <workItem from="1593051150044" duration="2553000" />
+      <workItem from="1593053966774" duration="17810000" />
+      <workItem from="1593093267580" duration="3796000" />
+      <workItem from="1593098275616" duration="55000" />
+      <workItem from="1593151384894" duration="13476000" />
+      <workItem from="1593170383814" duration="10618000" />
+      <workItem from="1593182020282" duration="2677000" />
+      <workItem from="1593185291002" duration="386000" />
+      <workItem from="1593185684517" duration="136000" />
+      <workItem from="1593185830105" duration="447000" />
+      <workItem from="1593186824831" duration="1355000" />
+      <workItem from="1593224203154" duration="10407000" />
+      <workItem from="1593241184522" duration="15000" />
+      <workItem from="1593241243638" duration="20420000" />
+      <workItem from="1593270266321" duration="3808000" />
+      <workItem from="1593325674468" duration="653000" />
+      <workItem from="1593327083078" duration="299000" />
+      <workItem from="1593399808077" duration="36000" />
+      <workItem from="1593414668335" duration="12000" />
+      <workItem from="1593414976070" duration="290000" />
+      <workItem from="1593749083749" duration="240000" />
+      <workItem from="1593761879090" duration="20000" />
+      <workItem from="1593846403068" duration="38000" />
+      <workItem from="1594308266490" duration="362000" />
+      <workItem from="1594308891458" duration="19000" />
+      <workItem from="1594691492501" duration="8830000" />
+      <workItem from="1594727317945" duration="1018000" />
+      <workItem from="1594778509069" duration="3000" />
+      <workItem from="1594792261069" duration="21000" />
+      <workItem from="1594798121371" duration="1226000" />
+      <workItem from="1594803405700" duration="600000" />
+      <workItem from="1594822967727" duration="1161000" />
+      <workItem from="1594864651675" duration="379000" />
+      <workItem from="1594871491899" duration="480000" />
+      <workItem from="1594882566058" duration="25000" />
+      <workItem from="1594985140758" duration="1318000" />
+      <workItem from="1595144095523" duration="589000" />
+      <workItem from="1595174622406" duration="747000" />
+      <workItem from="1595253979529" duration="8000" />
+      <workItem from="1618245405439" duration="409000" />
+      <workItem from="1618246117585" duration="44000" />
+      <workItem from="1618246172656" duration="1489000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <created>1618246593893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618246593893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初始化">
+      <created>1618247253513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618247253513</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1037" y="632" key="#Notifications" timestamp="1618247031530">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1037" y="632" key="#Notifications/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618247031530" />
+    <state x="885" y="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618247574285">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="885" y="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618247574285" />
+    <state x="584" y="311" key="CommitChangelistDialog2" timestamp="1618247249600">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="584" y="311" key="CommitChangelistDialog2/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618247249600" />
+    <state x="782" y="472" key="FileChooserDialogImpl" timestamp="1618245720133">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="782" y="472" key="FileChooserDialogImpl/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618245720133" />
+    <state x="813" y="636" key="Github.CreateGistDialog" timestamp="1618245766771">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="813" y="636" key="Github.CreateGistDialog/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618245766771" />
+    <state x="866" y="615" key="Github.ShareDialog" timestamp="1618246328576">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="866" y="615" key="Github.ShareDialog/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618246328576" />
+    <state x="769" y="421" key="Github.UntrackedFilesDialog" timestamp="1618246342866">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="769" y="421" key="Github.UntrackedFilesDialog/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618246342866" />
+    <state x="503" y="362" key="SettingsEditor" timestamp="1618247611391">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="503" y="362" key="SettingsEditor/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618247611391" />
+    <state x="594" y="450" key="Vcs.Push.Dialog.v2" timestamp="1618247518162">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="594" y="450" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.0.1536.864@0.0.2560.1440" timestamp="1618247518162" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chat_service$train.coverage" NAME="train Coverage Results" MODIFIED="1592524366164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot" />
+    <SUITE FILE_PATH="coverage/chat_service$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1592917862589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot" />
+    <SUITE FILE_PATH="coverage/chat_service$cut_sentence.coverage" NAME="cut_sentence Coverage Results" MODIFIED="1592038918695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/chat_service$build_model.coverage" NAME="build_model Coverage Results" MODIFIED="1592102203617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classify" />
+    <SUITE FILE_PATH="coverage/chat_service$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1592406482349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot" />
+    <SUITE FILE_PATH="coverage/chat_service$test_chat_bot.coverage" NAME="test_chat_bot Coverage Results" MODIFIED="1593014320121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_service$recall_corpus__1_.coverage" NAME="recall_corpus (1) Coverage Results" MODIFIED="1593055268549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prepare_copus/prepare_QA_corpus" />
+    <SUITE FILE_PATH="coverage/chat_service$test_prepare_corpus.coverage" NAME="test_prepare_corpus Coverage Results" MODIFIED="1593177897534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_service$test_user_dict.coverage" NAME="test_user_dict Coverage Results" MODIFIED="1592020715339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prepare_copus/prepare_user_dict" />
+    <SUITE FILE_PATH="coverage/chat_service$test_classify_model.coverage" NAME="test_classify_model Coverage Results" MODIFIED="1592400486406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_service$stopwords.coverage" NAME="stopwords Coverage Results" MODIFIED="1592040349469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/chat_service$123.coverage" NAME="123 Coverage Results" MODIFIED="1592132530845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_service$temp.coverage" NAME="temp Coverage Results" MODIFIED="1593257155234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corpus/QA_corpus" />
+    <SUITE FILE_PATH="coverage/chat_service$build_classify.coverage" NAME="build_classify Coverage Results" MODIFIED="1592400072911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prepare_copus/prepare_classify_corpus" />
+    <SUITE FILE_PATH="coverage/chat_service$main.coverage" NAME="main Coverage Results" MODIFIED="1592400346441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_service$recall_corpus.coverage" NAME="recall_corpus Coverage Results" MODIFIED="1593004125143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prepare_copus/prepare_corpus" />
+    <SUITE FILE_PATH="coverage/chat_service$test_dnn.coverage" NAME="test_dnn Coverage Results" MODIFIED="1593271117649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_service$decoder.coverage" NAME="decoder Coverage Results" MODIFIED="1592837579336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot" />
+  </component>
+</project>
